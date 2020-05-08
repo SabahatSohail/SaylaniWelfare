@@ -1,0 +1,57 @@
+*{font-family: 'Times New Roman', Times, serif;}
+.header {padding: 10px 0px 15px 0px ; background-color: rgba(37, 37, 192, 0.884) }
+.heading { color: white; margin-left: 100px; vertical-align: 5px;} 
+#navdiv{ background-color: whitesmoke; display: flex; flex-direction: row;}
+.button1 {float: right; text-align: center; text-decoration: none; padding: 9px 13px 9px 13px; margin: 5px 5px; cursor: pointer; }
+.button {float: right; text-align: center; text-decoration: none; padding: 9px 13px 9px 13px; margin: 5px 65px 5px 5px; cursor: pointer; }
+.logo{ height: 80px; width: 270px; vertical-align: middle;}
+.home{ color: white; background-color: rgba(37, 37, 192, 0.884); height: 30px; width: 80px;  margin: 20px 0px 30px 250px; text-align: center; font-size: 18px; text-decoration: none ; border-radius: 27px; border-spacing: 5px;  padding: 10px 20px 3px 20px;}
+.one{color: black; padding: 12px; font-size: 18px; text-decoration: none ; border-spacing: 5px;  margin: 20px 0px 30px 0px;}
+a.one:hover{background-color: rgba(37, 37, 192, 0.884);  border-radius: 27px; color: white; padding: 10px 30px 0px 30px;}
+.Banner1{ height: 400px;  width: 1330px;}
+.h{ text-align: center; font-size: 30px;}
+.introduction{background-color: whitesmoke; margin-top: 10px; margin-bottom: 0px; padding-top: 8px;}
+.introp{ text-align: justify; font-size: 15px; line-height: 1cm;  padding:5px 150px 0px 150px;}
+#intro{ color: blue;}
+#duction {color: green; }
+#circle{ height: 40px; width: 40px;}
+#line{ padding-left: 600px; color: green; }
+.div{background-color: blue; height: 300px;display: flex; flex-direction: row; text-align: center;}
+#div1,#div2, #div3, #div4 {margin: auto; }
+h2, #stats{color: white;}
+#food, #family, #medical, #education{ width: 50px; height: 50px; }
+.green{ color: green;}
+#w{color: blue;}
+#a{color: green;}
+table{ border-color: transparent; border-spacing: 60px; padding: 20px 20px;}
+#table{ background-color: whitesmoke; margin-top: 0px; padding-top: 40px;}
+td{ width: 750px ; text-align: center; border-color:transparent; color: blue; background-color: white;}
+tr{ height: 150px; border-color: transparent }
+#missionheading{color: blue; font-size: 30px; padding-left: 40px; margin-top: 50px; }
+#eventsheading{color: blue; font-size: 30px; padding-left: 10px; margin-top: 50px; }
+#pbordertop{border-top: 3px solid green;  width: 1.5cm;}
+#ebordertop{border-top: 3px solid green; width: 1.5cm;}
+.projectsandevents{ display: flex; flex-direction: row; justify-content:space-between; height: 500px;}
+.events{ width: 300px; text-align: justify; padding-right:120px; }
+#mission{ border-spacing: 20px; width: 900px;}  
+.tr1{border-color: whitesmoke; background-color: whitesmoke; text-align: center; height: 80px; }
+.td1{border-color: whitesmoke; background-color: whitesmoke; width: 280px;  font-size: 20px; font-weight: bold; padding-top: 15px;}
+#youtube, #whatsapp, #instagram, #twitter, #facebook { padding-top: 8px; padding-left: 15px; height: 25px; width: 25px; }
+.wwad{height: 50px; width: 50px; margin-bottom: 15px; }
+.maup{height: 50px; width: 50px; float: left; }
+.IG{height: 150px; width: 255px; }
+.information{display: flex;flex-direction: row; margin-top: 150px; padding-top: 70px; padding-left: 40px; padding-right: 70px;  justify-content: space-between; background-color: rgb(49, 48, 48); color: white ;}
+.address{font-size: 20px; line-height: 35px; width: 600px;}
+#usefullink{width: 600px;}
+.contact{width: 400px;}
+#fblogocircle{ height: 28px; width: 45px; }
+#instalogocircle{height: 28px; width: 30px;}
+#twitterlogocircle{ height: 28px; width: 35px;}
+#youtubelogocircle{ height: 28px; width: 35px;}
+.call, .message, .web{height: 20px; width: 20px;}
+.footer{background-color: rgba(27, 27, 233, 0.856); color: white; height: 35px; margin-top: 0px;padding-top: 10px;  padding-left: 10px;}
+.newsslider{background-color: rgba(29, 29, 214, 0.877); height: 35px;}
+.date{color: rgb(30, 197, 30);}
+.news{color: white;}
+#moredetails{color:blue}
+#newsp{padding-top: 5px;}
